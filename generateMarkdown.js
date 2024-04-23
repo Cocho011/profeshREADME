@@ -34,24 +34,19 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 function generateMarkdown(data) {
   return `# ${data.title}
-  $)renderLicenseBadge(data.license)}
+  ${renderLicenseBadge(data.license)}
 
 ## Description 📝
 ${data.description}
 
 ## Table of Contents 🗒
-
-* [Installations](#installations-💻)
-
-* [Usage](#usage-🏆)
-
-* [Test](#tests-🧪)
-
-* [Contributors](#contributors-😃)
-
-* [Questions](#questions)
-
-${renderLicenseLink(data.license)}
+1. [Installations](#installations-💻)
+2. [Usage](#usage-🏆)
+3. [Dependencies](#dependencies-📥)
+4. [Walkthrough](#walkthrough-🎥)
+5. [Test](#tests-🧪)
+6. [Questions](#questions- ❓) 
+7. [Contributors](#contributor(s)-😃)
 
 ## Installation 💻
 ${data.installation}
@@ -59,24 +54,33 @@ ${data.installation}
 ## Usage 🏆
 ${data.usage}
 
-## License 
-${data.license}
-
-## Dependencies
+## Dependencies 📥
 ${data.dependencies}
 
-## Contributing
+## Walkthrough 🎥
+$(data.walkthrough)
+
+## Contributing 🤝
 ${data.contributing}
 
 ## Tests 🧪
 ${data.tests}
 
-## Contributors 😃
+## Contributor(s) 😃
 ${data.contributors}
 
+## License 📜
+${data.license}
+
+For more information regarding this license please visit: ${renderLicenseLink(data.license)}
 
 ## Questions
-For questions or concerns about this project, please contact me at ${data.github} or via email at ${data.email}.
+For questions or concerns about this project, please contact me at: 
+- ${data.github} 
+- Email at ${data.email}
+- GitHub UserName: ${data.username},
+- GitHub Profile: ${data.profile},
+
 `;
 }
 
