@@ -34,7 +34,7 @@ Walkthrough 🎥
 
 Please see the below walkthrough video with instructions on app initiation.
 
-<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Profesional README Generator" src="https://bootcampspot.instructuremedia.com/embed/83c2fd34-6b85-4d39-830b-4a2de9f66ed1" frameborder="0"></iframe>
+https://bootcampspot.instructuremedia.com/embed/83c2fd34-6b85-4d39-830b-4a2de9f66ed1
 
 Sample README:
 
