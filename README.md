@@ -34,6 +34,7 @@ Walkthrough 🎥
 
 Please see the below walkthrough video with instructions on app initiation.
 
+![professional_README_generator](https://github.com/Cocho011/profeshREADME/assets/144750066/043f4ab4-90a7-4cf8-9618-ed29c39b7531)
 
 
 Sample README:
