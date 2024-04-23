@@ -12,7 +12,7 @@ Table Of Contents:
 5. Questions ❓
 6. Contributors😃
 
-Installations: 
+Installations 💻:
 
 Clone starter code. 
 
@@ -22,17 +22,23 @@ Run npm init command to set up project before installing dependencies and ensure
 
 Install inquirer by using npm i inquirer@8.2.4. 
 
-Usage:
+Usage 🏆
 
 Initiate application by running node index.js command. Once that is done, a series of prompts will ask about the project and all pertaining details to include in the newly generated README file. 
 
-Dependencies:
+Dependencies 📥
 
 Inquirer 8.2.4
 
-Walkthrough: 
+Walkthrough 🎥 
 
-Please see the below walkthrough video with instructions on app initiation. 
+Please see the below walkthrough video with instructions on app initiation.
+
+[Walkthrough Video](https://bootcampspot.instructuremedia.com/embed/83c2fd34-6b85-4d39-830b-4a2de9f66ed1)
+
+Sample README:
+
+![Sample README Image ](image.png)
 
 Contributing:
 
@@ -40,11 +46,11 @@ In order to contribute to this project:
 - Clone starter code
 - Submit a pull request (new features will be merged once they are reviewed and approved)
 
-Tests:
+Tests 🧪
 
 All project functionalities were tested manually by opening the app on the integrated terminal and entering the node index.js command. Once questions were answered, all information entered is verified in the newly generated README. 
 
-Contributor(s):
+Contributor(s) 😃
 
 Carolina Ochoa
 
@@ -52,7 +58,7 @@ License:
 
 Licensed under MIT. 
 
-Questions: 
+Questions ❓
 
 For questions or concerns about this project, please contact:
 Carolina Ochoa
