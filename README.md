@@ -34,11 +34,11 @@ Walkthrough 🎥
 
 Please see the below walkthrough video with instructions on app initiation.
 
-[Walkthrough Video](https://bootcampspot.instructuremedia.com/embed/83c2fd34-6b85-4d39-830b-4a2de9f66ed1)
+Profesional README Generator.mp4
 
 Sample README:
 
-![Sample README Image ](image.png)
+![alt text](<SAMPLE README -1.png>)
 
 Contributing:
 
