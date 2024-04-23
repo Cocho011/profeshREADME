@@ -1,44 +1,48 @@
-# test
-  
+# profeshREADME generator
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 📝
-test
+test description
 
 ## Table of Contents 🗒
 1. [Installations](#installations-💻)
 2. [Usage](#usage-🏆)
-3. [Walkthrough](#walkthrough-🎥)
-4. [Test](#tests-🧪)
-5. [Questions](#questions)
-6. [Contributors](#contributor(s)-😃)
+3. [Dependencies](#dependencies-📥)
+4. [Walkthrough](#walkthrough-🎥)
+5. [Test](#tests-🧪)
+6. [Questions](#questions- ❓) 
+7. [Contributors](#contributor(s)-😃)
 
 ## Installation 💻
-test
+Step 1; Step 2; Step 3
 
 ## Usage 🏆
-test
+Test instructions
 
 ## Dependencies 📥
-test
+Inquirer
+
+## Walkthrough 🎥
+$(data.walkthrough)
 
 ## Contributing 🤝
-test
+N/A
 
 ## Tests 🧪
-test
+node index.js
 
 ## Contributor(s) 😃
-test
+Carolina Ochoa
 
 ## License 📜
-test
+MIT
 
-For more information regarding this license please visit: 
+For more information regarding this license please visit: [MIT License](https://opensource.org/licenses/MIT)
 
 ## Questions
 For questions or concerns about this project, please contact me at: 
-- 
+- cocho011 
 - Email at cocho011@fiu.edu
-- GitHub UserName: cocho011,
+- GitHub UserName: undefined,
 - GitHub Profile: undefined,
 

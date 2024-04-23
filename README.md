@@ -32,7 +32,13 @@ Inquirer 8.2.4
 
 Walkthrough: 
 
-Please see the below walkthrough video with instructions on app initiation. 
+Please see the below walkthrough video with instructions on app initiation.
+
+[Walkthrough Video](https://bootcampspot.instructuremedia.com/embed/83c2fd34-6b85-4d39-830b-4a2de9f66ed1)
+
+Sample README:
+
+![Sample README Image ](image.png)
 
 Contributing:
 
