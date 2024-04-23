@@ -1,0 +1,28 @@
+{
+  "name": "profeshreadme",
+  "version": "1.0.0",
+  "description": "A command-line app that will dynamically generate a professional README.md file from user input using Inquire package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cocho011/profeshREADME.git"
+  },
+  "keywords": [
+    "[\"readme\"",
+    "\"generator\"",
+    "\"cli\"",
+    "\"inquirer\"]"
+  ],
+  "author": "Carolina Ochoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cocho011/profeshREADME/issues"
+  },
+  "homepage": "https://github.com/Cocho011/profeshREADME#readme",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
